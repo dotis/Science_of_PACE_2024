@@ -40,5 +40,5 @@ Personnel:
 2. 2nd derivative analysis of above water Rrs at a particular station, compare to ss (want a spectral function for each ss)
 3. Table of datasets
 4. Map(s)
-5. Case study from one cruise (March 2024?)
+5. Case study from one cruise (May 2024? WS2024139 - No CPICS)
 6. 
