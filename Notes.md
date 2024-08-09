@@ -32,8 +32,8 @@ Personnel:
 1. Diatom blooms from CPICS - plankton concentration
 2. PACE imagery (spectral analysis)
 3. eDNA?
-4. Should we look at a specific cruise? - July 2024 (cloudy), March 2024 (best)
-5. Process and analyze the ASD data
+4. Should we look at a specific cruise? - July 2024 (cloudy), May 2024 (best)
+5. Process and analyze the ASD data (access on Google drive)
 
 #### Sections in the proposal
 1. Full spectral characterization of seascapes w/above water Rrs (spectral function for each class) - is phytoplankton driving seascapes?
