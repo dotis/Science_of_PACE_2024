@@ -33,6 +33,16 @@ Personnel:
 2. PACE imagery (spectral analysis)
 3. eDNA?
 4. Should we look at a specific cruise? - July 2024 (cloudy), May 2024 (best)
+ - May 2024 images downloaded (WS24139 - 5/18-5/25)
+ - Find good ones (12), then order AOP files
+ - Re-project
+ - Extract, plot and analyze spectra - how to summarize in 1 number for a regression?
+5. Good images:
+ - 20240511T174724 (good)
+ - 20240512T181718 (ok)
+ - 20240512T182218 (good, north of 1st 5/12 image)
+ - 
+
 5. Process and analyze the ASD data (access on Google drive)
 
 #### Sections in the proposal
