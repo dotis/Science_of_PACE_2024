@@ -23,10 +23,10 @@ Can we streamline this?
 
 
 
-#### Example API search query for PACE L2 BGC data
+#### Example API search query for PACE L2 BGC data for GOM
 ConceptID: C3020920290-OB_CLOUD 
 Short_name: PACE_OCI_L2_BGC_NRT
 
-curl -i "https://cmr.earthdata.nasa.gov/search/granules?short_name=PACE_OCI_L2_BGC_NRT&temporal=2024-05-10T00:00:00Z,2024-05-31T00:00:00Z&bounding_box=-85,24,-78.5,28&page_size=200" -o PACE_test.xml
+curl -i "https://cmr.earthdata.nasa.gov/search/granules?short_name=PACE_OCI_L2_BGC_NRT&temporal=2024-05-10T00:00:00Z,2024-05-31T00:00:00Z&bounding_box=-98,18,-78.5,31&page_size=200" -o PACE_test.xml
 
 This returns an xml file, which must be parsed.
