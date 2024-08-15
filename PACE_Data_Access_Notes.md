@@ -20,7 +20,10 @@ Steps:
 6. Include authentication with ~./urs_cookies file during last wget step (as normal)
 Can we streamline this?
 
-
+The bash script created by Tylar works. TODO:
+1. Clean up: remove intermediate files
+2. Incorporate processsing call into bash script
+3. Find a way to turn this into a subscription service with daily queries (how to set up time?)
 
 
 #### Example API search query for PACE L2 BGC data for GOM
@@ -30,3 +33,8 @@ Short_name: PACE_OCI_L2_BGC_NRT
 curl -i "https://cmr.earthdata.nasa.gov/search/granules?short_name=PACE_OCI_L2_BGC_NRT&temporal=2024-05-10T00:00:00Z,2024-05-31T00:00:00Z&bounding_box=-98,18,-78.5,31&page_size=200" -o PACE_test.xml
 
 This returns an xml file, which must be parsed.
+
+Tylar created a bash script to do this.
+
+#### Data downloads (cover GOM)
+3/5/24 to 8/10/24
