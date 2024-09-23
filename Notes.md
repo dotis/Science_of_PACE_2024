@@ -5,15 +5,17 @@ Personnel:
 2. Co-I FMK (1 month)
 3. Co-I EMH (1 month)
 4. Luke Thompson
-5. Postdoc (USF)
+5. Maria (collaborator)
 6. Joaquin?
+7. Postdoc (USF)
+
 
 #### List of data
 1. eDNA
 2. Plankton imagery (planktoscope)
 3. Seascapes
 4. PACE data
-5. Cruise data
+5. Cruise data (aph, ag, Chla, nutrients, CTD profiles)
 6. Water quality
 7. Above water Rrs
 
@@ -34,8 +36,7 @@ Personnel:
 3. eDNA?
 4. Should we look at a specific cruise? - July 2024 (cloudy), May 2024 (best)
  - May 2024 images downloaded (WS24139 - 5/18-5/25)
- - Find good ones (12), then order AOP files
- - Re-project
+ - Obtain and process (1D composite, grid) PACE files (need to updata periodically)
  - Extract, plot and analyze spectra - how to summarize in 1 number for a regression?
 5. Good images:
  - 20240511T174724 (good)
