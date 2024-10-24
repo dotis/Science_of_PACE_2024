@@ -53,3 +53,13 @@ Personnel:
 4. Map(s)
 5. Case study from one cruise (May 2024? WS2024139 - No CPICS)
 6. 
+
+#### Meeting with MTK on 10/22/24
+1. Question of scale? - Global w/SS, but need more in-situ data
+2. PACE in terms of SS continuity, but not for this call (need science, not products)
+3. Hyperspectral signature as a function of water type
+4. Look at Jianwei Wei work from UMBC (K-means clustering of reflectance)
+5. MTK will also have a proposal in this call. Want complementarity. Similar approach in different regions.
+6. SS products using PACE - not for this call, but relative phyto community composition dominance OR seasonal variability of SS and PACE fluorescence products
+7. Budget for MTK here? - Depends on the questions.
+
