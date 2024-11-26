@@ -2,12 +2,17 @@
 
 Personnel:
 1. PI Otis (3-4 months)
-2. Co-I FMK (1 month)
-3. Co-I EMH (1 month)
-4. Luke Thompson
+2. Co-I FMK (0.5 month)
+3. Co-I EMH (~1 month)
+4. Luke Thompson (~1 month)
 5. Maria (collaborator)
 6. Joaquin?
 7. Postdoc (USF)
+8. Wil Klajbor (~2 months)
+
+40k/yr subaward to UM
+25k/yr subaward to Luke (Miss. St. U.)
+Perhaps dial back the postdoc to 2+ years (6,12,12 mos)
 
 
 #### List of data
