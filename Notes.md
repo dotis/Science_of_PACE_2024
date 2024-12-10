@@ -97,7 +97,7 @@ PACE gap from 5/24-30
 7/23: Poor (1)  
 7/24: Poor (1)  
 7/25: Ok (4.5)  
-7/26: Ok (4). 
+7/26: Ok (4)  
 7/27: Good (7) - patch of glint  
 7/28: Ok (6)  
 7/29: Poor (4)  
