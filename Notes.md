@@ -69,7 +69,7 @@ Perhaps dial back the postdoc to 2+ years (6,12,12 mos)
 7. Budget for MTK here? - Depends on the questions.
 
 ### W/S Cruise dates (PACE starts on 3/5/24):
-#### WS24061 (3/2-3/9) 
+#### WS24061 (3/2-3/9)
 3/5: Ok (7)  
 3/6: Bad (0)  
 3/7: Good (8.5)  
@@ -89,7 +89,7 @@ Perhaps dial back the postdoc to 2+ years (6,12,12 mos)
 5/24: Good (9)  
 PACE gap from 5/24-30  
 
-#### WS24205 (7/20-7/30)  
+#### WS24205 (7/20-7/30) 
 7/19: Bad (0)  
 7/20: Ok (3)  
 7/21: Poor (1.5)  
@@ -107,7 +107,7 @@ PACE gap from 5/24-30
 #### WS24258 (9/14-9/20)  
 9/13: Good (9)  
 9/14: Ok (4)  
-9/15: Bad (0)  
+9/15: Bad (0)   
 9/16: Ok (5)  
 9/17: Bad (1)  
 9/18: Ok (3)  
@@ -115,7 +115,7 @@ PACE gap from 5/24-30
 9/20: Ok (5)  
 9/21: Good (8)  
 
-#### WS24314 (11/10-11/17)  
+#### WS24314 (11/10-11/17)
 11/9: Good on WFS (8)  
 11/10: Ok (7) - interesting patterns on WFS  
 11/11: Ok (3)  
