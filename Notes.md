@@ -87,7 +87,7 @@ Perhaps dial back the postdoc to 2+ years (6,12,12 mos)
 5/22: Good (9.5)
  - Elevated Chl and ABI SW of Ch. Harbor
  - Small area of high Chl and ABI at north end of TTI
- - Check spectra, UW Fluor. along track
+ - Check spectra, UW Fluor. along track  
 5/23: Poor (2)  
 5/24: Good (9)  
 PACE gap from 5/24-30  
