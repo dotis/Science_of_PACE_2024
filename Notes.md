@@ -61,7 +61,8 @@ Perhaps dial back the postdoc to 2+ years (6,12,12 mos)
 - [] Project management section (anon)
 - [] DMP
 - [] Methods (need EMH and Luke's text)
-10. 
+- [] Refs. (last)
+- [] Doc to PDF (last)
 
 
 
