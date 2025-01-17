@@ -28,7 +28,7 @@ Perhaps dial back the postdoc to 2+ years (6,12,12 mos)
 #### What is the story?
 1. Spectral PACE data analysis w/SA algorithms
 2. Phytoplankton community product
-3. What is the spectral signature of blooms
+3. What is the spectral signature of blooms? Of seascapes?
 4. Bio-optics to help validate PACE data
 5. What ecological processes can we track w/PACE data?
 6. Taxonomic data (eDNA)
@@ -50,6 +50,21 @@ Perhaps dial back the postdoc to 2+ years (6,12,12 mos)
  - 
 
 5. Process and analyze the ASD data (access on Google drive)
+
+## Items remaining
+- [] Seascapes figure?
+- [] Spectra from MODA, VSNPP, OLCI
+- [] Text for figures
+- [] Background on SVH, PCC
+- [] Non-anonymized doc
+- [] Inclusion Plan
+- [] Project management section (anon)
+- [] DMP
+- [] Methods (need EMH and Luke's text)
+10. 
+
+
+
 
 #### Sections in the proposal
 1. Full spectral characterization of seascapes w/above water Rrs (spectral function for each class) - is phytoplankton driving seascapes?
