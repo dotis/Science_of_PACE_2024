@@ -52,8 +52,8 @@ Perhaps dial back the postdoc to 2+ years (6,12,12 mos)
 5. Process and analyze the ASD data (access on Google drive)
 
 ## Items remaining
-- [] Seascapes figure?
-- [] Spectra from MODA, VSNPP, OLCI
+- [X] Seascapes figure?
+- [X] Spectra from MODA, VSNPP, OLCI
 - [] Text for figures
 - [] Background on SVH, PCC
 - [] Non-anonymized doc
