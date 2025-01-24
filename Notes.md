@@ -57,7 +57,6 @@ Perhaps dial back the postdoc to 2+ years (6,12,12 mos)
 - [] Text for figures
 - [] Background on SVH, PCC
 - [] Non-anonymized doc
-- [] Inclusion Plan
 - [] Project management section (anon)
 - [] DMP
 - [] Methods (need EMH and Luke's text)
